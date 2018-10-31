@@ -56,6 +56,7 @@
 31. Eric W - You made an app. Now what? Your guide to navigating a competitive landscape!
 32. Travis - bash editing, carpal tunnel & you
 33. Karin - Algorithmic Bias: What is it and how can we improve our code?
+34. Kristen - Design for Dyslexia
 ```
 
 ---
